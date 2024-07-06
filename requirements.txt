@@ -5,3 +5,4 @@ streamlit
 google-generativeai
 langchain_google_genai
 pillow
+validators
