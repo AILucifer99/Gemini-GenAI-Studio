@@ -6,3 +6,5 @@ google-generativeai
 langchain_google_genai
 pillow
 validators
+PyPDF2
+faiss-cpu
