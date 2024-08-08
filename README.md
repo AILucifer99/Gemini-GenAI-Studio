@@ -14,7 +14,7 @@ For using the system, follows the below provided steps one after the other in a 
 5.   Move the `.env` to the project root folder
 6.   Open the command prompt and create the Python virtual enviorenment.
 7.   Once enviorenment is created, run the command - `pip install -r requirements.txt`
-8.   Run the command - `streamlit run "Gemini MultiLingual Studio.py"`
+8.   Run the command - `streamlit run "scripts\\Generative AI Studio.py"`
 9.   The application will be running on the URL - `http://localhost:8501`
 10.   Start using the application and unleash the power of the Google Gemini Large Language MultiModal Model.
 
